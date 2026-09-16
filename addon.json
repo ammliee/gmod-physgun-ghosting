@@ -1,0 +1,11 @@
+{
+    "title": "Physgun Ghosting",
+    "type": "tool",
+    "tags": ["build", "fun"],
+    "ignore": [
+        "*.md",
+        "*.gma",
+        ".git/*",
+        ".gitignore"
+    ]
+}
